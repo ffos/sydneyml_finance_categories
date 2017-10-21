@@ -127,7 +127,7 @@ def loadAndNormalize(pathToCsv):
     df = retainDateAmountAndDescription(df, bank)
     parseFunc = partial(getParseFunction(bank), suburbsDf)
     df = addColumnsFromParseFuncOutput(df,parseFunc)
-    return 0,df
+    return df
                       
     
     
