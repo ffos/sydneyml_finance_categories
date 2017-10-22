@@ -13,6 +13,7 @@ Bank statements look like:
 CBA:
 
 | Date | Amount | Desc |
+|-----|-----|-----|
 |27/08/2017 | -6.50 | DELISSE SYDNEY NS AUS Card xx7113 Value Date: 25/09/2017 |
 |20/07/2017 | -4.00 | SOUTHGATE GROUP AUSTRA SYDNEY  AUS Card xx7113 Value Date: 26/09/2017 |
 |21/06/2017 | -10.00 | Direct Debit 142619 TPG Internet DH9M1IFK4EH-03GJKN	|
@@ -21,6 +22,7 @@ CBA:
 Bendigo:
 
 | Date | Amount | Desc |
+|-----|-----|-----|
 |10/11/2017 | -14 | RETAIL PURCHASE PUB LIFE KITCHEN, ULTIMO 0810 AUD000000001400 |		
 |08/09/2017 | 1000 | E-BANKING TRANSFER 0132269686 0034046540V501		|
 |18/07/2017 | 250 | E-BANKING TRANSFER 0132269657 0024701161V501		|
@@ -33,6 +35,7 @@ Bendigo:
 ANZ:
 
 | Date | Amount | Desc |
+|-----|-----|-----|
 | 03-09-2017 | -15.14 | 7-ELEVEN 2180 ASHFIELD |
 | 20-04-2017 | -200 | BUNNINGS 572000 PENRITH |
 | 15-10-2016 | -15.08 | COLES EXPRESS 1557 MINTO |
